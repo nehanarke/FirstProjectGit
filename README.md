@@ -1,4 +1,4 @@
 # FirstProjectGit
-This is my Pom Project
+This is my Pom Project.
 <br>
-My file wriiten by neha.
+My file is writen by neha narke only.
